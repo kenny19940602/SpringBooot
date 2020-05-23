@@ -6,5 +6,5 @@
 
 右上角点击项目地址有更多我整理的资料,欢迎品鉴
 
-[GitHub](https://github.com/kenny19940602/Juc)
+[GitHub](https://github.com/kenny19940602/SpringBoot)
 [Get Started](README.md)

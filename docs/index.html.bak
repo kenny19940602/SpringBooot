@@ -13,7 +13,7 @@
   <script>
       window.$docsify = {
 	  name: 'SpringBoot',
-      repo: 'https://github.com/kenny19940602/LearningNote',
+      repo: 'https://github.com/macrozheng/mall-learning',
       loadNavbar: true,
       loadSidebar: true,
       coverpage: true,
